@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-My name is Daniel Ronan, I live in the United Kingdom 🇬🇧 and I am currently studying and building my skills in Software Development. Here you will find my repositories, which will include many collaborative projects and my 'solo projects' that I have completed on the 'Microverse Software Development Course'. There will be many more to come so feel free to have a look around! 😁
+My name is Daniel Ronan, I live in the United Kingdom 🇬🇧 and I am currently studying and building my skills in Software Development. Here you will find my repositories, which will include many collaborative projects and my 'solo projects' that I have completed on the 'Microverse Software Development Course'. There will be many more to come so please feel free to have a look around! 😁
 
 🌱 I’m currently learning 'Ruby' 🔴💎
 
