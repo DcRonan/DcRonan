@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
-**DcRonan/DcRonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Daniel Ronan, I live in the United Kingdom 🇬🇧 and I am currently studying and building my skills in Software Development. Here you will find my repositories, which will include many collaborative projects and my 'solo projects' that I have completed on the 'Microverse Software Development Course'. There will be many more to come so feel free to have a look around! 😁
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning 'Ruby' :Ruby: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 If you want to collaborate then please feel free to get in touch!
+
+- 👀 I'm looking for an opportunity as a Full-Stack Software Developer in London 💂. I am also open to being 'Remote' 💻 .
+
+- 📫 You can reach me at: 
+👔 [Linkedln](https://www.linkedin.com/in/danronan10/)
+📧 <a href="mailto:email@echoecho.com?subject=Hi Dan!">Email me</a>
