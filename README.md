@@ -23,3 +23,5 @@ My name is Daniel Ronan, I live in the United Kingdom 🇬🇧 and I am currentl
 
 ![img](./assets/svg's/linkedin-icon.svg) [Linkedln](https://www.linkedin.com/in/danronan10/) <br>
 ![img](./assets/svg's/mail-ios.svg) <a href="mailto:danielconnorronan@gmail.com?subject=Hi Dan!"> Email</a>
+![img](./assets/svg's/twitter-3.svg) [Twitter](https://twitter.com/dc_ronan)
+![img](./assets/svg's/instagram-2-1.svg) [Instagram](https://www.instagram.com/dc_ronan/)
