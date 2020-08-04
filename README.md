@@ -22,11 +22,11 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
   
 👯 If you want to collaborate then please feel free to get in touch!
 
-👀 I'm looking for an opportunity as a Full-Stack Software Developer in London ![img](./assets/svg's/london-underground.svg). I am also open to being 'Remote' 💻 .
+👀 I'm looking for an opportunity as a Full-Stack Software Developer in London <img src="https://img.icons8.com/color/20/000000/big-ben.png"/>. I am also open to being 'Remote' 💻 .
 
 ### You can reach me at:
 
-![img](./assets/svg's/linkedin-icon.svg) [Linkedln](https://www.linkedin.com/in/danronan10/) <br>
-![img](./assets/svg's/mail-ios.svg) <a href="mailto:danielconnorronan@gmail.com?subject=Hi Dan!"> Email</a> <br>
-![img](./assets/svg's/twitter-3.svg) [Twitter](https://twitter.com/dc_ronan) <br>
-![img](./assets/svg's/instagram-2-1.svg) [Instagram](https://www.instagram.com/dc_ronan/)
+<img src="https://img.icons8.com/cute-clipart/30/000000/linkedin.png"/> [Linkedln](https://www.linkedin.com/in/danronan10/) <br>
+<img src="https://img.icons8.com/cute-clipart/30/000000/email-sign.png"/> <a href="mailto:danielconnorronan@gmail.com?subject=Hi Dan!"> Email</a> <br>
+<img src="https://img.icons8.com/cute-clipart/30/000000/twitter.png"/> [Twitter](https://twitter.com/dc_ronan) <br>
+<img src="https://img.icons8.com/cute-clipart/30/000000/instagram-new.png"/> [Instagram](https://www.instagram.com/dc_ronan/)
