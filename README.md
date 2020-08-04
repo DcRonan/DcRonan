@@ -4,12 +4,14 @@ My name is Daniel Ronan, I live in the United Kingdom 🇬🇧 and I am currentl
 
 🌱 I’m currently learning 'Ruby' 🔴💎
 
-🖥️ Programming Skills: <br>
-- HTML 5
-- CSS3
-- Bootstrap
-- Javascript (Basic)
-- Ruby (Basic)
+### Programming Skills 🖥️ 
+```
+  HTML 5
+  CSS3
+  Bootstrap
+  Javascript (Basic)
+  Ruby (Basic)
+```
 
 👯 If you want to collaborate then please feel free to get in touch!
 
