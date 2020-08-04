@@ -18,7 +18,7 @@ My name is Daniel Ronan, I live in the United Kingdom 🇬🇧 and I am currentl
 
 👯 If you want to collaborate then please feel free to get in touch!
 
-👀 I'm looking for an opportunity as a Full-Stack Software Developer in London 💂. I am also open to being 'Remote' 💻 .
+👀 I'm looking for an opportunity as a Full-Stack Software Developer in London ![img](./assets/svg's/london-underground.svg). I am also open to being 'Remote' 💻 .
 
 📫 You can reach me at: <br>
 
