@@ -6,7 +6,7 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
 
 ### Programming Skills 
 
-  - HTML5 ![img](./assets/svg's/html-5.svg)
+  - HTML5 ![img](assets/svg's/html-5.svg)
   - CSS3 ![img](./assets/svg's/css-3.svg)
   - Javascript (Basic) ![img](./assets/svg's/javascript.svg)
   - Ruby (Basic) ![img](./assets/svg's/ruby.svg)
