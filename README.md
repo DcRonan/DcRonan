@@ -2,18 +2,23 @@
 
 My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am currently studying and building my skills in Software Development. Here you will find my repositories, which will include many collaborative projects and my 'solo projects' that I have completed on the 'Microverse Software Development Course'. There will be many more to come so please feel free to have a look around! 😁
 
-🌱 I’m currently learning: Ruby
+🌱 I’m currently learning: Ruby <img src="https://img.icons8.com/color/20/000000/ruby-programming-language.png"/>
 
 ### Programming Skills 
 
-  - HTML5 ![img](assets/svg's/html-5.svg)
-  - CSS3 ![img](./assets/svg's/css-3.svg)
-  - Javascript (Basic) ![img](./assets/svg's/javascript.svg)
-  - Ruby (Basic) ![img](./assets/svg's/ruby.svg)
-  - Node.js (Basic) ![img](./assets/svg's/nodejs-icon.svg)
-  - npm (Basic) ![img](./assets/svg's/npm.svg)
-  - Bootstrap ![img](./assets/svg's/bootstrap-4.svg)
-  - VS Code <img src="https://img.icons8.com/fluent/20/000000/visual-studio-code-2019.png"/>
+  - HTML5 
+  - CSS3 
+  - Javascript (Basic)
+  - Ruby (Basic)
+  - Node.js (Basic)
+  - npm (Basic)
+  - Bootstrap
+  - VS Code
+  
+  <img src="https://img.icons8.com/color/70/000000/html-5.png"/><img src="https://img.icons8.com/color/70/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/70/000000/javascript.png"/><img src="https://img.icons8.com/color/70/000000/ruby-programming-language.png"/>
+  <img src="https://img.icons8.com/color/70/000000/nodejs.png"/><img src="https://img.icons8.com/color/70/000000/npm.png"/>
+  <img src="https://img.icons8.com/color/70/000000/bootstrap.png"/><img src="https://img.icons8.com/fluent/70/000000/visual-studio-code-2019.png"/>
   
 👯 If you want to collaborate then please feel free to get in touch!
 
