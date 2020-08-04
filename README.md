@@ -2,7 +2,7 @@
 
 My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am currently studying and building my skills in Software Development. Here you will find my repositories, which will include many collaborative projects and my 'solo projects' that I have completed on the 'Microverse Software Development Course'. There will be many more to come so please feel free to have a look around! 😁
 
-🌱 I’m currently learning: Ruby <img src="https://img.icons8.com/color/30/000000/ruby-programming-language.png"/>
+🌱 I’m currently learning: Ruby <img src="assets/svg's/html-5.svg"/>
 
 ### Programming Skills 
 
@@ -13,7 +13,7 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
   - Node.js (Basic) ![img](./assets/svg's/nodejs-icon.svg)
   - npm (Basic) ![img](./assets/svg's/npm.svg)
   - Bootstrap ![img](./assets/svg's/bootstrap-4.svg)
-  - VS Code ![img](./assets/svg's/visual-studio-code-1.svg)
+  - VS Code <img src="https://img.icons8.com/fluent/20/000000/visual-studio-code-2019.png"/>
   
 👯 If you want to collaborate then please feel free to get in touch!
 
