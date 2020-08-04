@@ -4,7 +4,7 @@ My name is Daniel Ronan, I live in the United Kingdom 🇬🇧 and I am currentl
 
 🌱 I’m currently learning: Ruby ![img](./assets/svg's/ruby.svg)
 
-### Programming Skills 🖥️ 
+### Programming Skills 
 
   - HTML5 ![img](./assets/svg's/html-5.svg)
   - CSS3 ![img](./assets/svg's/css-3.svg)
