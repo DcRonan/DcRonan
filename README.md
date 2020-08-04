@@ -5,7 +5,7 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
 🌱 I’m currently learning: Ruby <img src="https://img.icons8.com/color/20/000000/ruby-programming-language.png"/>
 
 ### Programming Skills 
-
+```
   - HTML5 
   - CSS3 
   - Javascript (Basic)
@@ -14,7 +14,7 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
   - npm (Basic)
   - Bootstrap
   - VS Code
-  
+```  
   <img src="https://img.icons8.com/color/70/000000/html-5.png"/><img src="https://img.icons8.com/color/70/000000/css3.png"/>
   <img src="https://img.icons8.com/color/70/000000/javascript.png"/><img src="https://img.icons8.com/color/70/000000/ruby-programming-language.png"/>
   <img src="https://img.icons8.com/color/70/000000/nodejs.png"/><img src="https://img.icons8.com/color/70/000000/npm.png"/>
