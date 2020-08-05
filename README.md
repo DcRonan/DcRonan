@@ -32,4 +32,4 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
 [![TWITTER](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dc_ronan)
 [![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dc_ronan/)
 
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=DcRonan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+<!-- <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=DcRonan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" > -->
