@@ -11,7 +11,7 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
   - Javascript (Basic)
   - Ruby (Basic)
   - Node.js (Basic)
-  - npm (Basic)
+  - npm
   - Bootstrap
   - VS Code
 ```  
