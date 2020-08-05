@@ -44,4 +44,5 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
 
  <img src="https://github-readme-stats.vercel.app/api?username=DcRonan&count_private=true&show_icons=true&theme=radical&icon_color=E11C68&title_color=FFF">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DcRonan&layout=compact)]()
 
