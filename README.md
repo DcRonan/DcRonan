@@ -27,7 +27,9 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
 
 ### You can reach me at:
 
-<img src="https://img.icons8.com/cute-clipart/30/000000/linkedin.png"/> [Linkedln](https://www.linkedin.com/in/danronan10/) <br>
-<img src="https://img.icons8.com/cute-clipart/30/000000/email-sign.png"/> <a href="mailto:danielconnorronan@gmail.com?subject=Hi Dan!"> Email</a> <br>
-<img src="https://img.icons8.com/cute-clipart/30/000000/twitter.png"/> [Twitter](https://twitter.com/dc_ronan) <br>
-<img src="https://img.icons8.com/cute-clipart/30/000000/instagram-new.png"/> [Instagram](https://www.instagram.com/dc_ronan/)
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danronan10/)
+[![EMAIL](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:danielconnorronan@gmail.com)
+[![TWITTER](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dc_ronan)
+[![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dc_ronan/)
+
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=DcRonan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
