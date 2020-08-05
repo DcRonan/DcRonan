@@ -2,7 +2,7 @@
 
 My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am currently studying and building my skills in Software Development. Here you will find my repositories, which will include many collaborative projects and my 'solo projects' that I have completed on the 'Microverse Software Development Course'. There will be many more to come so please feel free to have a look around! 😁
 
-🌱 I’m currently learning: Ruby ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=CC342D&labelColor=000)
+🌱 I’m currently learning: Ruby ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white&labelColor=000)
 
 ### Programming Skills 
 ```
