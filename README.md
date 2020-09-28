@@ -13,6 +13,7 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
   - Ruby
   - Ruby on Rails
   - Git
+  - GitHub
   - npm
   - Ruby Gems
   - RSpec
@@ -20,7 +21,8 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
   - Bootstrap
   - Sass
   - VS Code
-```  
+``` 
+
 <!--  <img src="https://img.icons8.com/color/70/000000/html-5.png"/><img src="https://img.icons8.com/color/70/000000/css3.png"/>
   <img src="https://img.icons8.com/color/70/000000/javascript.png"/><img src="https://img.icons8.com/color/70/000000/ruby-programming-language.png"/>
   <img src="https://img.icons8.com/color/70/000000/nodejs.png"/><img src="https://img.icons8.com/color/70/000000/npm.png"/>
@@ -33,6 +35,7 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
   ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white&labelColor=000)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=000)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=000)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=000)
   ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=Npm&logoColor=white&labelColor=000)
   ![RubyGems](https://img.shields.io/badge/-Ruby_Gems-E9573F?style=for-the-badge&logo=RubyGems&logoColor=white&labelColor=000)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=000)
