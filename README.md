@@ -10,12 +10,15 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
   - HTML5 
   - CSS3 
   - Javascript (Basic)
-  - Ruby (Basic)
+  - Ruby
+  - Ruby on Rails
   - Git
   - npm
   - Ruby Gems
+  - RSpec
   - Node.js (Basic)
   - Bootstrap
+  - Sass
   - VS Code
 ```  
 <!--  <img src="https://img.icons8.com/color/70/000000/html-5.png"/><img src="https://img.icons8.com/color/70/000000/css3.png"/>
@@ -33,6 +36,7 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
   ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=Npm&logoColor=white&labelColor=000)
   ![RubyGems](https://img.shields.io/badge/-Ruby_Gems-E9573F?style=for-the-badge&logo=RubyGems&logoColor=white&labelColor=000)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=000)
+  ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white&labelColor=000)
   ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=000)
   
 👯 If you want to collaborate then please feel free to get in touch!
