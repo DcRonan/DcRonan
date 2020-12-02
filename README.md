@@ -6,30 +6,6 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
 
 ### Programming Skills 
 
-```
-  - HTML5 
-  - CSS3 
-  - Javascript
-  - Ruby
-  - Ruby on Rails
-  - AWS
-  - SQLite
-  - PostgreSQL
-  - MySQL
-  - Heroku
-  - Netlify
-  - Git
-  - GitHub
-  - npm
-  - Ruby Gems
-  - RSpec
-  - Capybara
-  - Node.js (Basic)
-  - Bootstrap
-  - Sass
-  - VS Code
-``` 
-
 <!--  <img src="https://img.icons8.com/color/70/000000/html-5.png"/><img src="https://img.icons8.com/color/70/000000/css3.png"/>
   <img src="https://img.icons8.com/color/70/000000/javascript.png"/><img src="https://img.icons8.com/color/70/000000/ruby-programming-language.png"/>
   <img src="https://img.icons8.com/color/70/000000/nodejs.png"/><img src="https://img.icons8.com/color/70/000000/npm.png"/>
