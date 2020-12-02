@@ -9,14 +9,21 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
 ```
   - HTML5 
   - CSS3 
-  - Javascript (Basic)
+  - Javascript
   - Ruby
   - Ruby on Rails
+  - AWS
+  - SQLite
+  - PostgreSQL
+  - MySQL
+  - Heroku
+  - Netlify
   - Git
   - GitHub
   - npm
   - Ruby Gems
   - RSpec
+  - Capybara
   - Node.js (Basic)
   - Bootstrap
   - Sass
@@ -33,6 +40,12 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=000)
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white&labelColor=000)
   ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white&labelColor=000)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white&labelColor=000)
+  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white&labelColor=000)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=000)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=000)
+  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white&labelColor=000)
+  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white&labelColor=000)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=000)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=000)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=000)
