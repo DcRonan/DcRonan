@@ -26,6 +26,7 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
   - npm
   - Ruby Gems
   - RSpec
+  - Jest
   - Capybara
   - Node.js (Basic)
   - Bootstrap
@@ -52,6 +53,7 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am 
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=000)
   ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=Npm&logoColor=white&labelColor=000)
   ![RubyGems](https://img.shields.io/badge/-Ruby_Gems-E9573F?style=for-the-badge&logo=RubyGems&logoColor=white&labelColor=000)
+  ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white&labelColor=000)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=000)
   ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white&labelColor=000)
   ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=000)
