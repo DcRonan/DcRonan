@@ -1,18 +1,17 @@
 ## Welcome 👋
 
-My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I am currently studying and building my skills in Software Development. Here you will find my repositories, which will include many collaborative projects and my 'solo projects' that I have completed on the 'Microverse Software Development Course'. There will be many more to come so please feel free to have a look around!
-
-🌱 I’m currently learning: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white&labelColor=000)
+My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I'm a Full-Stack Developer. Here you will find my repositories, which will include many collaborative projects and my 'solo projects' that I have completed on the 'Microverse Software Development Course' and in personal time. There will be many more to come so please feel free to have a look around.
 
 ### Programming Skills 
 
 ```
-  - HTML5 
-  - CSS3 
-  - React
+  - React.js
+  - Ruby on Rails
   - Javascript
   - Ruby
-  - Ruby on Rails
+  - Tailwind CSS
+  - HTML5 
+  - CSS3 
   - AWS
   - SQLite
   - PostgreSQL
