@@ -2,7 +2,7 @@
 
 My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I'm a Full-Stack Developer. Here you will find my repositories, which will include many collaborative projects and my 'solo projects' that I have completed on the 'Microverse Software Development Course' and in personal time.
 
-### Programming Skills 
+### Skills 
 
 ```
   - React.js
