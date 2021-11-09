@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I'm a Full-Stack Developer. Here you will find my repositories, which will include many collaborative projects and my 'solo projects' that I have completed on the 'Microverse Software Development Course' and in personal time. There will be many more to come so please feel free to have a look around.
+My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I'm a Full-Stack Developer. Here you will find my repositories, which will include many collaborative projects and my 'solo projects' that I have completed on the 'Microverse Software Development Course' and in personal time.
 
 ### Programming Skills 
 
@@ -59,9 +59,9 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I'm a
   ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white&labelColor=000)
   ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=000)
   
-👯 If you want to collaborate then please feel free to get in touch!
+👯 If you want to collaborate then please feel free to get in touch.
 
-👀 I'm looking for an opportunity as a Full-Stack Software Developer in London <img src="https://img.icons8.com/color/20/000000/big-ben.png"/>. I am also open to being 'Remote' 💻 .
+👀 I'm looking for an opportunity as a Full-Stack Developer in London <img src="https://img.icons8.com/color/20/000000/big-ben.png"/>. I am also open to being 'Remote' 💻 .
 
 ### You can reach me at:
 
