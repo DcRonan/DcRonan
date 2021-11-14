@@ -28,7 +28,7 @@ My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and I'm a
   - RSpec
   - Jest
   - Capybara
-  - Node.js (Basic)
+  - Node.js
   - Bootstrap
   - Sass
   - VS Code
