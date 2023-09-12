@@ -1,7 +1,5 @@
 ## Welcome 👋
 
-My name is <b> Daniel Ronan</b>, I live in the United Kingdom 🇬🇧 and work for Bond and Coyne as a Junior Developer 👨‍💻
-
 ### Skills 
 
 ```
