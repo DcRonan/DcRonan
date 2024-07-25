@@ -31,12 +31,8 @@
 
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dan-ronan/)
 [![EMAIL](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:danielconnorronan@gmail.com)
-[![TWITTER](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DanielRonan16)
-[![AngelList](https://img.shields.io/badge/-Angel_List-000?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/daniel-ronan-1)
 
-==================================================
-
- <img src="https://github-readme-stats.vercel.app/api?username=DcRonan&count_private=true&show_icons=true&theme=radical&icon_color=E11C68&title_color=FFF">
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=DcRonan&count_private=true&show_icons=true&theme=radical&icon_color=E11C68&title_color=FFF"> -->
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DcRonan&layout=compact)]() -->
 
