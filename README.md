@@ -1,36 +1,6 @@
 ## Welcome 👋
 
 ### Skills 
-
-```
-  - React.js
-  - Ruby on Rails
-  - Javascript
-  - Ruby
-  - Tailwind CSS
-  - HTML5 
-  - CSS3 
-  - AWS
-  - SQLite
-  - PostgreSQL
-  - MySQL
-  - Phaser
-  - PostCSS
-  - Webpack
-  - Heroku
-  - Netlify
-  - Git
-  - GitHub
-  - npm
-  - Ruby Gems
-  - RSpec
-  - Jest
-  - Capybara
-  - Node.js
-  - Bootstrap
-  - Sass
-  - VS Code
-```
   
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=000)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=000)
